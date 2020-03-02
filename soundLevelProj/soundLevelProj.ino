@@ -10,7 +10,6 @@ int colorB = 0;
 
 int num_Measure = 128 ; // Set the number of measurements   
 int pinSignal = A0; // pin connected to pin O module sound sensor  
-int redLed = 5; 
 long Sound_signal;    // Store the value read Sound Sensor   
 long sum = 0 ; // Store the total value of n measurements   
 long level = 0 ; // Store the average value   
