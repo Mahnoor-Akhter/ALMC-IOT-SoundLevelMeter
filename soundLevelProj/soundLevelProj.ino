@@ -1,3 +1,5 @@
+//We sourced some code from this website to get the sound meter working https://how2electronics.com/decibel-meter-using-sound-module-arduino/
+
 #include <Wire.h> 
 
 #include "rgb_lcd.h"
